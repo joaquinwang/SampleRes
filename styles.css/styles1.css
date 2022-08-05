@@ -1,6 +1,6 @@
 
 body {
-  background-color: #696969;
+  background-color:lightcoral;
   overflow:hidden;
   display:flex;
   flex-direction:column;
@@ -20,7 +20,7 @@ body {
 
 .box{
   box-sizing:border-box;
-  background-color:yellowgreen;
+  background-color:lightpink;
   text-align: center;
   padding: 70px;
   border-radius: 35px;
@@ -31,7 +31,7 @@ body {
 
 .button {
   font-family: 'Dancing Script', cursive;
-  background-color:lawngreen; 
+  background-color:lightsteelblue; 
   color:black;
   padding: 10px 26px;
   text-align: center;
